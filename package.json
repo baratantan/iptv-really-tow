@@ -1,0 +1,12 @@
+{
+  "name": "iptv-stream-relay",
+  "version": "1.0.0",
+  "description": "IPTV Stalker stream relay + passthrough proxy (Docker)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
